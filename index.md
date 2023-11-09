@@ -18,6 +18,7 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 # Second Milestone 
 ![dog](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*)
+
 [![Mr Beast ](https://res.cloudinary.com/marcomontalbano/image/upload/v1699529772/video_to_markdown/images/youtube--1WEAJ-DFkHE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=1WEAJ-DFkHE "Mr Beast ")
 
 # First Milestone
