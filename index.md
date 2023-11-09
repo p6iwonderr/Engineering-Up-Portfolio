@@ -1,9 +1,9 @@
-# Project Name/Title Goes Here
-This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
+# Big Robot Project
+This will be a big robot.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Your Name| Current Highschool | Mechanical Engineering | Senior 
+| Parker | School of the Arts | Mechanical Engineering | Senior 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
@@ -17,6 +17,8 @@ My final milestone, I've come a long way from where I started just a couple of m
 ![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
 
 # Second Milestone 
+![dog](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*)
+
 
 # First Milestone
   
